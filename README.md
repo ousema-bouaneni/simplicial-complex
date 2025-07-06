@@ -3,7 +3,7 @@ Simplicial complexes for topological data analysis
 
 [Pierre Sara](https://github.com/pierresara/) and [Ousema Bouaneni](https://github.com/ousema-bouaneni)
 
-A program to calculate [Čech](https://en.wikipedia.org/wiki/%C4%8Cech_complex) and alpha complexes of a set of points in arbitrary dimension using an [LP-type](https://en.wikipedia.org/wiki/LP-type_problem) approach, done as part of [CSC_42021_EP]: an algorithm design course at École polytechnique and supervised by Marc Glisse.
+A program to calculate [Čech](https://en.wikipedia.org/wiki/%C4%8Cech_complex) and alpha complexes of a set of points in arbitrary dimension using an [LP-type](https://en.wikipedia.org/wiki/LP-type_problem) approach, done as part of [CSC_42021_EP](https://moodle.polytechnique.fr/enrol/index.php?id=19281): an algorithm design course at École polytechnique and supervised by Marc Glisse.
 
 # Project structure
 If we ignore the `__init__.py` files that are there just to help python recognize the different modules of the package, our project's folder structure looks like this:
